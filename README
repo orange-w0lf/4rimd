@@ -9,4 +9,9 @@ INSTRUCTIONS:
 
 To run this script you will require the ruby 'mechanize' gem. On your server type: "gem install mechanize" and then you're ready to rock!
 
+HOLD IT! On version 0.2 which supports arguments
+Proper usage is 4rimd.rb /BOARD/ res/THREAD ID
+It will create a whole bunch of folders, Specially for you!
+
+
 Enjoy!
